@@ -1,4 +1,9 @@
+
+
 body {
+  background-image: url("images/backgrd.png");
+  background-repeat: repeat;
+  background-attachment: fixed;
   background-color: rgb(20, 70, 120);
   font-family: "Barlow Condensed";
 }
